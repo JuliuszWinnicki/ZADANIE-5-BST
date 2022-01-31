@@ -1,0 +1,22 @@
+Tabela ocen - kod każdej osoby jest oceniany przez 3 inne. 
+
+1. Osoba oceniana: Piotr Siciński
+    1(samoocena)    3.5 pkt - jest okej, ale pewnie wczytanie można by dopieścić
+    2   4 pkt
+    3   4 pkt - brak niebezpiecznych funkcji typu fscanf
+    4   4 pkt - budowa funkcji jak najbardziej w porządku
+2. Osoba oceniana: Julia Dasiewicz
+    1   4 pkt - bez wycieków pamięci
+    2(samoocena) 3.5pkt - w funkcji usunLisc za dużo warunków, można było inaczej zbudować funkcję
+    3   4 pkt - brak wycieków pamięci
+    4   4 pkt - prawidłowo wykonana struktura biblioteki
+3. Osoba oceniana: Wojciech Szczytko
+    1   3.5 pkt
+    2   4 pkt
+    3(samoocena) 3.5 pkt -  dużo zagnieżdżonych funkcji zmniejsza przejrzystość kodu
+    4   4 pkt  - dobra robota
+4. Osoba oceniana: Juliusz Winnicki
+    1   3.5 pkt
+    2   3.5 pkt - dosyć długi plik programu, można było podzielić na pliki  
+    3   3.5 pkt - możnaby użuć while zamiast rekurencji
+    4(samoocena) 3.5 pkt - praca ok
