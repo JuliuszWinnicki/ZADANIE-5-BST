@@ -1,0 +1,7 @@
+40 miasto40 ulica
+12 miasto12 ulicaPierwsza
+5 miasto5 ulica
+8 miasto8 ulica
+89 miasto89 ulica
+20 miasto20 ulica
+189 miasto189 ulica
